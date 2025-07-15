@@ -15,8 +15,7 @@ No cloud, no fees — just pure local wizardry.
 
 I started to work on this because I wanted to record some video demos of my projects and add voice narration to them, but I am not that good at narrating but better at writing, so I thought hmmmmm... why not create somethin that will take my written narration and speak it out in my magically modified voice... mwa ha ha ha ha ha ....
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhreW01d2J0eTYzYWQyajI4eXRpdHZxOWRyOXlrenlyeWZyOWJqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rgXBOmTlzyFCURutG/giphy.gif
-  " alt="Evil laugh" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhreW01d2J0eTYzYWQyajI4eXRpdHZxOWRyOXlrenlyeWZyOWJqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rgXBOmTlzyFCURutG/giphy.gif" alt="Evil laugh" width="300"/>
 </p>
 
 
