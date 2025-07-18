@@ -1,0 +1,24 @@
+{
+  "model": "tacotron2",
+  "phonemizer": "phonemizer",
+  "phoneme_language": "en-us",
+  "use_phonemes": true,
+  "phonemizer": "espeak",
+  "text_cleaner": "english_cleaners",
+  "characters": {
+    "pad": "_",
+    "eos": "~",
+    "bos": "^",
+    "characters": "abcdefghijklmnopqrstuvwxyz!'(),-.:;? ",
+    "punctuations": "!'(),-.:;?",
+    "phonemes": "AA AE AH AO AW AY B CH D DH EH ER EY F G HH IH IY JH K L M N NG OW OY P R S SH T TH UH UW V W Y Z ZH"
+  },
+  "datasets": [
+    {
+      "name": "natural",
+      "formatter": "ljspeech",
+      "meta_file_train": "metadata.csv",
+      "path": "/home/mrumoy/sandbox/python/VoiceCloneLab/dataset/natural"
+    }
+  ]
+}

@@ -7,7 +7,9 @@ torchvision==0.16.2+cu121
 # Coqui TTS dependencies
 numpy
 scipy
+pydub
 librosa
+soundfile
 unidecode
 inflect
 tqdm
@@ -16,3 +18,4 @@ tensorboard
 # Optional: helpful during training and debugging
 pandas
 matplotlib
+notebook
