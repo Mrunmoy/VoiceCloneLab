@@ -1,0 +1,1 @@
+The user interface provides intuitive controls for data manipulation.
