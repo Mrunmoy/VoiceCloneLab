@@ -124,3 +124,5 @@ backend/data/
 backend/snapshots/
 *.db
 *.sqlite3
+
+wavs/
