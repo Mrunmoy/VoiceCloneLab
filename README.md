@@ -13,7 +13,7 @@ Record your own voice — or an enchanted Voicemod-filtered variant — train it
 
 No cloud, no fees — just pure local wizardry.
 
-I started to work on this because I wanted to record some video demos of my projects and add voice narration to them, but I am not that good at narrating but better at writing, so I thought hmmmmm... why not create somethin that will take my written narration and speak it out in my magically modified voice... mwa ha ha ha ha ha ....
+I started working on this because I wanted to create video demos of my projects with voice narration. But instead of spending time recording and re-recording my voice, I thought — why not write the narration (which I’m much faster at), and have a magically modified version of my voice do the talking for me? 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhreW01d2J0eTYzYWQyajI4eXRpdHZxOWRyOXlrenlyeWZyOWJqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rgXBOmTlzyFCURutG/giphy.gif" alt="Evil laugh" width="300"/>
 </p>
